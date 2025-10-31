@@ -16,3 +16,7 @@ Banana Math challenge UI
 
 \- `README.md`: Project overview and Figma link
 
+
+
+ui updated on octomber 31st
+
